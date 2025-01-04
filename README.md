@@ -1,4 +1,4 @@
 # Projects
 This repository contains my projects.
 <br>
--Suryavedha Pradhan
+By Suryavedha Pradhan
